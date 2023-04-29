@@ -1,1 +1,5 @@
-sou
+#include <stdio.h>
+{
+int main()
+printf("spm lab exam");
+}
